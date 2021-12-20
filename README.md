@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AzzamS-1
+- 👋 Hi, I’m @pinnked
 - 👀 I’m interested in Code
 - 🌱 I’m currently learning JavaScript
 
