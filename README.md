@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pinnked
+- 👋 Hi, I’m @Azzam
 - 👀 I’m interested in Code
 - 🌱 I’m currently learning TypeScript
 
